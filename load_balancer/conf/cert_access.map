@@ -1,0 +1,5 @@
+; add the CN from a cert here
+cert1 |system1|
+cert2 |system1|
+cert3 |system2|
+cert4 |system2|
